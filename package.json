@@ -31,7 +31,7 @@
     "lodash": "^4.14.0",
     "primus": "^6.0.5",
     "scuttlebutt-vector": "^6.0.0",
-    "ws": "^1.1.1"
+    "ws": "^7.2.5"
   },
   "peerDependencies": {
     "primus": "^6.0.0",
